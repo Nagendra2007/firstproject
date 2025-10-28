@@ -8,7 +8,7 @@
   height: 50px; 
   width : 110px; 
   margin-left : 20px; 
-  padding : 5px; 
+  padding : 10px; 
   
 } 
 .navbar{
@@ -298,5 +298,6 @@ body{
     display: flex;
     justify-content: space-between;
 }
+
 
 
